@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "scripts": {
+    "test": "editorconfig-checker"
+  },
+  "devDependencies": {
+    "editorconfig-checker": "^4.0.2"
+  }
+}
